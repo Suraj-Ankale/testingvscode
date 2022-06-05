@@ -21,3 +21,4 @@ def merge (a, b, c):
     while k < len(c):
         yield c[k]
         k += 1
+        k += 2
